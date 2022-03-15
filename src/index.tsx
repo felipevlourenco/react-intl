@@ -8,7 +8,6 @@ import './index.css';
 // import '@formatjs/intl-pluralrules/locale-data/en' // locale-data for en
 // import '@formatjs/intl-relativetimeformat/polyfill'
 // import '@formatjs/intl-relativetimeformat/locale-data/en' // locale-data for en
-import 'fix-date'
 
 ReactDOM.render(
   <React.StrictMode>
